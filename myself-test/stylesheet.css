@@ -1,0 +1,59 @@
+cite{
+    text-align: center;
+}
+.title1{
+    margin-left: 110px;
+    border: 1px dotted black;
+}
+h1 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+
+section {
+    font-size: large;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: 10px 20px;
+    height: 60px;
+    width: 35.5%;
+
+}
+
+button {
+    border-radius: 0.3rem;
+    width: 15.5%;
+    display: flexbox;
+    flex-wrap: nowrap;
+}
+.number{
+    background-color: hotpink;
+}
+.symbol{
+    background-color: gray;
+}
+
+button:hover{
+    background-color: rgb(153, 88, 121);
+}
+button:active{
+    background-color: papayawhip;
+    color: black;
+}
+
+.screen {
+    background-color: burlywood;
+    text-align: center;
+    font-size: xx-large;
+    height: 40px;
+}
+
+.intro{
+    height: 130px;
+}
+strong{
+    font-size: 12px;
+    margin-left:230px;
+    text-align: right;
+}
